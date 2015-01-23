@@ -12,11 +12,12 @@ int main( void )
   bmwr84();
   printf("\n");
   
-  printf("\n");
-  bmwr84_second();
   // Add your sentence.
   // Don't forget to update the header file.
+  darrensSentence1();
 
+  printf("\n");
+  bmwr84_second();
 
   // Bens sentence should be last.
   bensSentence_FINAL();
