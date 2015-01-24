@@ -7,3 +7,5 @@ int bmwr84();
 int bmwr84_second();
 int darrensSentence1();
 int darrensSentence2();
+int jpvc4_Sentence1();
+int jpvc4_Sentence2();

@@ -9,15 +9,17 @@ int main( void )
   printf("\n\n");
   bensSentence1();
   printf("\n\n");
-  bmwr84();
-  printf("\n");
-  
+
   // Add your sentence.
   // Don't forget to update the header file.
+  bmwr84();
+  printf(" ");
   darrensSentence1();
-
-  printf("\n");
   bmwr84_second();
+  darrensSentence2();
+  
+  jpvc4_Sentence1();
+  jpvc4_Sentence2();
 
   // Bens sentence should be last.
   bensSentence_FINAL();
