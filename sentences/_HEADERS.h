@@ -13,3 +13,5 @@ int amd2b7_sentence1();
 int amd2b7_sentence2();
 int devinsSentence1();
 int devinsSentence2();
+int kllxvd();
+int kllxvd2();
