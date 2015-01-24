@@ -23,6 +23,9 @@ int main( void )
 
   amd2b7_sentence1();
   amd2b7_sentence2();
+  
+  devinsSentence1();
+  devinsSentence2();
 
   // Bens sentence should be last.
   bensSentence_FINAL();
