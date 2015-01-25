@@ -29,6 +29,9 @@ int main( void )
 
   kllxvd();
   kllxvd2();
+
+  qltf8();
+  qltf8_next();
   
   // Bens sentence should be last.
   bensSentence_FINAL();
