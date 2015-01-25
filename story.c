@@ -33,6 +33,9 @@ int main( void )
 
   qltf8();
   qltf8_next();
+
+  jmlmdf();
+  jmlmdfnext();  
   
   // Bens sentence should be last.
   bensSentence_FINAL();
