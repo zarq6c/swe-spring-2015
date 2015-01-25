@@ -17,7 +17,8 @@ int main( void )
   darrensSentence1();
   bmwr84_second();
   darrensSentence2();
-  
+  tnrn9b1();
+  tnrn9b2();
   jpvc4_Sentence1();
   jpvc4_Sentence2();
 

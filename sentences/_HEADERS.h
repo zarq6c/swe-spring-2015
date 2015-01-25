@@ -9,3 +9,5 @@ int darrensSentence1();
 int darrensSentence2();
 int jpvc4_Sentence1();
 int jpvc4_Sentence2();
+int tnrn9b1();
+int tnrn9b2();
