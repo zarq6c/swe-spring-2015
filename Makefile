@@ -51,7 +51,7 @@ clean:
 # And how do we make it?
 # -----------------------------------------------
 
-story: story.o bpbkt7.o bmwr84.o dse2pd.o jpvc4.o tnrn9b.o
+story: story.o bpbkt7.o bmwr84.o dse2pd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o
 #pawprint.o - where is your .c derived object file - where is your file
 
 # -----------------------------------------------
@@ -67,6 +67,14 @@ bmwr84.o: sentences/bmwr84.c
 dse2pd.o: sentences/dse2pd.c
 	$(CC) -c $< 
 jpvc4.o: sentences/jpvc4.c
+	$(CC) -c $<
+amd2b7.o: sentences/amd2b7.c
+	$(CC) -c $<
+dc4g2.o: sentences/dc4g2.c
+	$(CC) -c $<
+kllxvd.o: sentences/kllxvd.c
+	$(CC) -c $<
+qltf8.o: sentences/qltf8.c
 	$(CC) -c $<
 tnrn9b.o: sentences/tnrn9b.c
 	$(CC) -c $<
