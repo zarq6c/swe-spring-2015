@@ -51,7 +51,7 @@ clean:
 # And how do we make it?
 # -----------------------------------------------
 
-story: story.o bpbkt7.o bmwr84.o
+story: story.o bpbkt7.o bmwr84.o tnrn9b.o
 #pawprint.o - where is your .c derived object file - where is your file
 
 # -----------------------------------------------
@@ -63,4 +63,4 @@ story.o: story.c
 bpbkt7.o: sentences/bpbkt7.c
 	$(CC) -c $< 
 
-
+tnrn9b.o: sentences/tnrn9b.c

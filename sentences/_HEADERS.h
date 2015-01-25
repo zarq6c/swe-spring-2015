@@ -17,3 +17,5 @@ int kllxvd();
 int kllxvd2();
 int qltf8();
 int qltf8_next();
+int tnrn9b1();
+int tnrn9b2();
