@@ -27,6 +27,9 @@ int main( void )
   devinsSentence1();
   devinsSentence2();
 
+  kllxvd();
+  kllxvd2();
+  
   // Bens sentence should be last.
   bensSentence_FINAL();
 
