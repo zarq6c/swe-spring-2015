@@ -27,7 +27,7 @@ int main( void )
   amd2b7_sentence2();
   
   devinsSentence1();
-  //jebd4f_Sentence1();
+  jebd4f_Sentence1();
   devinsSentence2();
 
   kllxvd();
@@ -38,7 +38,7 @@ int main( void )
   qltf8_next();
 //  jmlmdf();
   //jmlmdfnext();  
-//jebd4f_Sentence2();
+jebd4f_Sentence2();
   
   // Bens sentence should be last.
   bensSentence_FINAL();
