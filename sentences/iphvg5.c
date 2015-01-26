@@ -8,6 +8,6 @@ int iphvg5_sentence1()
 
 int iphvg5_sentence2()
 {
-	printf("\nThere was also a group of Mokele-Mbembe but they had previously became extinct.\n")
+	printf("\nThere was also a group of Mokele-Mbembe but they had previously became extinct.\n");
 		return 1;
 }
