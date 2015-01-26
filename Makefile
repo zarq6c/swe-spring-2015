@@ -84,3 +84,6 @@ jebd4f.o: sentences/jebd4f.c
 #	$(CC) -c $<
 bar5z6.o: sentences/bar5z6.c
 	$(CC) -c $<
+iphvg5.o: sentences/iphvg5.c
+	$(CC) -c $<
+	
