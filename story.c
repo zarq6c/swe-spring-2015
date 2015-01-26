@@ -15,6 +15,7 @@ int main( void )
   bmwr84();
   printf(" ");
   darrensSentence1();
+  iphvg5_sentence2();
   bmwr84_second();
   darrensSentence2();
   tnrn9b1();
