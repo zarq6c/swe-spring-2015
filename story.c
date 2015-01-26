@@ -16,6 +16,7 @@ int main( void )
   printf(" ");
   darrensSentence1();
   iphvg5_sentence2();
+  lmwv2c_first();
   bmwr84_second();
   darrensSentence2();
   tnrn9b1();
@@ -35,6 +36,7 @@ int main( void )
   kllxvd2();
 
   bar5z6Sentence2();
+  lmwv2c_second();
   qltf8();
   qltf8_next();
 //  jmlmdf();

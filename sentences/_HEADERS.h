@@ -27,3 +27,5 @@ int bar5z6Sentence1();
 int bar5z6Sentence2();
 int iphvg5_sentence1();
 int iphvg5_sentence2();
+void lmwv2c_first();
+void lmwv2c_second();
