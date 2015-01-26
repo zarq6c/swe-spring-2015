@@ -38,7 +38,7 @@ test:
 
 # -----------------------------------------------
 # When you type 'make clean', you get rid of
-# all of the *.0 and the 'story' file.
+# all of the *.o and the 'story' file.
 # -----------------------------------------------
 
 clean:
@@ -47,11 +47,14 @@ clean:
 
 # -----------------------------------------------
 # Now we bring in our dependencies.
-# 'all' needs 'story.0'. What does story need?
+# 'all' needs 'story.o'. What does story need?
 # And how do we make it?
 # -----------------------------------------------
 
-story: story.o bpbkt7.o bmwr84.o dse2pd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o
+story: story.o bpbkt7.o bmwr84.o dse2pd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o \
+		iphvg5.o
+	$(CC) -o story $^
+
 #pawprint.o - where is your .c derived object file - where is your file
 
 # -----------------------------------------------
@@ -84,3 +87,6 @@ jebd4f.o: sentences/jebd4f.c
 #	$(CC) -c $<
 bar5z6.o: sentences/bar5z6.c
 	$(CC) -c $<
+iphvg5.o: sentences/iphvg5.c
+	$(CC) -c $<
+	

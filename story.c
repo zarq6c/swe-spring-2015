@@ -15,6 +15,7 @@ int main( void )
   bmwr84();
   printf(" ");
   darrensSentence1();
+  iphvg5_sentence2();
   bmwr84_second();
   darrensSentence2();
   tnrn9b1();
@@ -39,6 +40,7 @@ int main( void )
 //  jmlmdf();
   //jmlmdfnext();  
 jebd4f_Sentence2();
+iphvg5_sentence1();
   
   // Bens sentence should be last.
   bensSentence_FINAL();
