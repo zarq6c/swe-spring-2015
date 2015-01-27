@@ -51,8 +51,16 @@ int main( void )
 jebd4f_Sentence2();
 iphvg5_sentence1();
   
+<<<<<<< HEAD
  //blhtkd_sentence1(); makefile failed to compile these, commented out
  //blhtkd_sentence2();
+=======
+ // blhtkd_sentence1();
+ // blhtkd_sentence2();
+    zzff8_sentence1();
+    zzff8_sentence2();
+    
+>>>>>>> 0d6dc521941af7de5af20ae22832d574f63d0218
   // Bens sentence should be last.
   bensSentence_FINAL();
 
