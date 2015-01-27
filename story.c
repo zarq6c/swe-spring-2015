@@ -5,6 +5,7 @@
 
 int main( void )
 {
+<<<<<<< HEAD
     printf("\n\n");
     bensSentence1();
     printf("\n\n");
@@ -49,6 +50,7 @@ int main( void )
 
     // blhtkd_sentence1();
     // blhtkd_sentence2();
+
     zzff8_sentence1();
     zzff8_sentence2();
 
