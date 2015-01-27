@@ -36,3 +36,5 @@ int blhtkd_sentence1();
 int blhtkd_sentence2();
 int zzff8_sentence1();
 int zzff8_sentence2();
+int tps9tb_sentence1();
+int tps9tb_sentence2();
