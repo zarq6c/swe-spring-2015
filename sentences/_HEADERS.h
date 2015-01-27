@@ -36,3 +36,5 @@ int blhtkd_sentence1();
 int blhtkd_sentence2();
 void kjmd54SentenceOne();
 void kjmd54SentenceTwo();
+int zzff8_sentence1();
+int zzff8_sentence2();

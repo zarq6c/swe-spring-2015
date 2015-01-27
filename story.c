@@ -47,12 +47,13 @@ int main( void )
     jebd4f_Sentence2();
     iphvg5_sentence1();
 
-    //blhtkd_sentence1();
-    //blhtkd_sentence2();
+    // blhtkd_sentence1();
+    // blhtkd_sentence2();
+    zzff8_sentence1();
+    zzff8_sentence2();
 
     kjmd54SentenceOne();
     kjmd54SentenceTwo();
-
 
     // Bens sentence should be last.
     bensSentence_FINAL();
