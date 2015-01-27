@@ -15,7 +15,7 @@ int devinsSentence1();
 int devinsSentence2();
 int kllxvd();
 int kllxvd2();
-
+void wjbz82String();
 int qltf8();
 int qltf8_next();
 int tnrn9b1();

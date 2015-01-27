@@ -48,9 +48,11 @@ int main( void )
 jebd4f_Sentence2();
 iphvg5_sentence1();
   
-  blhtkd_sentence1();
-  blhtkd_sentence2();
+  //blhtkd_sentence1();
+  //blhtkd_sentence2();
+  wjbz82String(); 
   // Bens sentence should be last.
+ printf("\n\n"); //new lines for good measure
   bensSentence_FINAL();
 
   printf("\n\n");
