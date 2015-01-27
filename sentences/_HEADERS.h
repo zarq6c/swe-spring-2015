@@ -34,3 +34,5 @@ int pld9bc_1();
 int pld9bc_2();
 int blhtkd_sentence1();
 int blhtkd_sentence2();
+int zzff8_sentence1();
+int zzff8_sentence2();
