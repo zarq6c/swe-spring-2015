@@ -32,3 +32,5 @@ void lmwv2c_first();
 void lmwv2c_second();
 int pld9bc_1();
 int pld9bc_2();
+int blhtkd_sentence1();
+int blhtkd_sentence2();
