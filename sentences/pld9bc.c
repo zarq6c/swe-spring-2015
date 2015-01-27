@@ -6,7 +6,7 @@
  #include <stdio.h>
  
 int pld9bc_1(){
-	printf("This project wasn't using the GPL public license, bringing anger to the wise wizard Richard M Stallman.");
+	printf(" This project wasn't using the GPL public license, bringing anger to the wise wizard Richard M Stallman.");
 	return 1;
 }
 

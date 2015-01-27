@@ -51,7 +51,7 @@ clean:
 # And how do we make it?
 # -----------------------------------------------
 
-story: story.o bpbkt7.o bmwr84.o dse2pd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o \
+story: story.o bpbkt7.o bmwr84.o dse2pd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o\
 		iphvg5.o lmwv2c.o
 	$(CC) -o story $^
 
@@ -90,5 +90,7 @@ bar5z6.o: sentences/bar5z6.c
 iphvg5.o: sentences/iphvg5.c
 	$(CC) -c $<
 lmwv2c.o: sentences/lmwv2c.c
+	$(CC) -c $<
+pld9bc.o: sentences/pld9bc.c
 	$(CC) -c $<
 	

@@ -24,9 +24,11 @@ int main( void )
   jpvc4_Sentence1();
   bar5z6Sentence1();
   jpvc4_Sentence2();
-
   amd2b7_sentence1();
+  pld9bc_2();
   amd2b7_sentence2();
+  pld9bc_1();
+
   
   devinsSentence1();
   jebd4f_Sentence1();
