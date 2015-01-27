@@ -58,6 +58,8 @@ iphvg5_sentence1();
     
   // Bens sentence should be last.
   bensSentence_FINAL();
+  edw8n8_SENTENCE1();
+  edw8n8_SENTENCE2();
 
   printf("\n\n");
 }
