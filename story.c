@@ -50,6 +50,9 @@ int main( void )
     //blhtkd_sentence1();
     //blhtkd_sentence2();
 
+    kjmd54SentenceOne();
+    kjmd54SentenceTwo();
+
 
     // Bens sentence should be last.
     bensSentence_FINAL();
