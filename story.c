@@ -48,8 +48,8 @@ int main( void )
 jebd4f_Sentence2();
 iphvg5_sentence1();
   
-  blhtkd_sentence1();
-  blhtkd_sentence2();
+ //blhtkd_sentence1(); makefile failed to compile these, commented out
+ //blhtkd_sentence2();
   // Bens sentence should be last.
   bensSentence_FINAL();
 
