@@ -46,8 +46,8 @@ int main( void )
   qltf8();
   qltf8_next();
 
-//  jmlmdf();
-  //jmlmdfnext();  
+  jmlmdf();
+  jmlmdfnext();  
 jebd4f_Sentence2();
 iphvg5_sentence1();
   
