@@ -59,6 +59,8 @@ iphvg5_sentence1();
     zzff8_sentence2();
 	ldbnr4_sentence1();
     ldbnr4_sentence2();
+	xltz6_1();
+	xltz6_2();
     
   // Bens sentence should be last.
   bensSentence_FINAL();

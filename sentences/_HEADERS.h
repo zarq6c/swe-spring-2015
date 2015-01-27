@@ -42,4 +42,5 @@ int xdb57_sentence1();
 int xdb57_sentence2();
 int ldbnr4_sentence1();
 int ldbnr4_sentence2();
-
+int xltz6_1();
+int xltz6_2();
