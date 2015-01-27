@@ -53,9 +53,6 @@ int main( void )
     blhtkd_sentence1();
     blhtkd_sentence2();
 
-    zzff8_sentence1();
-    zzff8_sentence2();
-
     kjmd54SentenceOne();
     kjmd54SentenceTwo();
 
