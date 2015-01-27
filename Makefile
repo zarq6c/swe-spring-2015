@@ -98,4 +98,6 @@ racn88.o: sentences/racn88.c
 	$(CC) -c $<
 zzff8.o: sentences/zzff8.c
 	$(CC) -c $<
+edw8n8.o: sentences/edw8n8.c
+	$(CC) -c $<
 	
