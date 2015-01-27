@@ -51,7 +51,7 @@ clean:
 # And how do we make it?
 # -----------------------------------------------
 
-story: story.o bpbkt7.o bmwr84.o dse2pd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o iphvg5.o lmwv2c.o
+story: story.o bpbkt7.o bmwr84.o dse2pd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o iphvg5.o lmwv2c.o racn88.o
 	$(CC) -o story $^
 
 #pawprint.o - where is your .c derived object file - where is your file
@@ -94,4 +94,5 @@ pld9bc.o: sentences/pld9bc.c
 	$(CC) -c $<
 blhtkd.o: sentences/blhtkd.c
 	$(CC) -c $<
-	
+racn88.o: sentences/racn88.c
+	$(CC) -c $<
