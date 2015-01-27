@@ -5,7 +5,7 @@ int qltf8(){
 	}
 
 int qltf8_next(){
-	printf("%s\n","and then he shocked");
+	printf("%s\n","and then he shocked.");
 	return 1;
 }
 
