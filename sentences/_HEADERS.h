@@ -38,3 +38,5 @@ int racn88_s1();
 int racn88_s2();
 int zzff8_sentence1();
 int zzff8_sentence2();
+int xdb57_sentence1();
+int xdb57_sentence2();

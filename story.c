@@ -40,7 +40,9 @@ int main( void )
   kllxvd();
   kllxvd2();
   racn88_s2();
+  xdb57_sentence1();
   bar5z6Sentence2();
+  xdb57_sentence2();
   lmwv2c_second();
 
   qltf8();
