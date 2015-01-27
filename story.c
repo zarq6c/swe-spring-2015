@@ -37,8 +37,10 @@ int main( void )
 
   bar5z6Sentence2();
   lmwv2c_second();
+
   qltf8();
   qltf8_next();
+
 //  jmlmdf();
   //jmlmdfnext();  
 jebd4f_Sentence2();

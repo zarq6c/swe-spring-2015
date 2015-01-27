@@ -77,7 +77,7 @@ dc4g2.o: sentences/dc4g2.c
 	$(CC) -c $<
 kllxvd.o: sentences/kllxvd.c
 	$(CC) -c $<
-qltf8.o: sentences/qltf8.c
+qltf8.o:sentences/qltf8.c
 	$(CC) -c $<
 tnrn9b.o: sentences/tnrn9b.c
 	$(CC) -c $<
