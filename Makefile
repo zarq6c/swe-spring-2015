@@ -51,11 +51,7 @@ clean:
 # And how do we make it?
 # -----------------------------------------------
 
-<<<<<<< HEAD
-story: story.o bpbkt7.o bmwr84.o dse2pd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o iphvg5.o lmwv2c.o racn88.o
-=======
-story: story.o bpbkt7.o bmwr84.o dse2pd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o iphvg5.o lmwv2c.o zzff8.o
->>>>>>> 0d6dc521941af7de5af20ae22832d574f63d0218
+story: story.o bpbkt7.o bmwr84.o dse2pd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o iphvg5.o lmwv2c.o racn88.o zzff8.o
 	$(CC) -o story $^
 
 #pawprint.o - where is your .c derived object file - where is your file
@@ -98,11 +94,8 @@ pld9bc.o: sentences/pld9bc.c
 	$(CC) -c $<
 blhtkd.o: sentences/blhtkd.c
 	$(CC) -c $<
-<<<<<<< HEAD
 racn88.o: sentences/racn88.c
 	$(CC) -c $<
-=======
 zzff8.o: sentences/zzff8.c
 	$(CC) -c $<
 	
->>>>>>> 0d6dc521941af7de5af20ae22832d574f63d0218
