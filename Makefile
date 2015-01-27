@@ -51,11 +51,8 @@ clean:
 # And how do we make it?
 # -----------------------------------------------
 
-<<<<<<< HEAD
-story: story.o bpbkt7.o bmwr84.o dse2pd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o iphvg5.o lmwv2c.o zzff8.o tps9tb.o
-=======
-story: story.o bpbkt7.o bmwr84.o dse2pd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o iphvg5.o lmwv2c.o racn88.o zzff8.o blhtkd.o jmlmdf.o xdb57.o ldbnr4.o
->>>>>>> e3befb827b39c6c6fcb768055492cb58427939fb
+
+story: story.o bpbkt7.o bmwr84.o dse2pd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o iphvg5.o lmwv2c.o racn88.o zzff8.o  jmlmdf.o xdb57.o ldbnr4.o
 	$(CC) -o story $^
 
 #pawprint.o - where is your .c derived object file - where is your file
@@ -102,12 +99,11 @@ racn88.o: sentences/racn88.c
 	$(CC) -c $<
 zzff8.o: sentences/zzff8.c
 	$(CC) -c $<
-<<<<<<< HEAD
+
 tps9tb.o: sentences/tps9tb.c
 	$(CC) -c $<
-=======
 xdb57.o: sentences/xdb57.c
 	$(CC) -c $<
 ldbnr4.o: sentences/ldbnr4.c
 	$(CC) -c $<
->>>>>>> e3befb827b39c6c6fcb768055492cb58427939fb
+

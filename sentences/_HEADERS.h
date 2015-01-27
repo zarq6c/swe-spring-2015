@@ -38,12 +38,8 @@ int racn88_s1();
 int racn88_s2();
 int zzff8_sentence1();
 int zzff8_sentence2();
-<<<<<<< HEAD
-int tps9tb_sentence1();
-int tps9tb_sentence2();
-=======
 int xdb57_sentence1();
 int xdb57_sentence2();
 int ldbnr4_sentence1();
 int ldbnr4_sentence2();
->>>>>>> e3befb827b39c6c6fcb768055492cb58427939fb
+
