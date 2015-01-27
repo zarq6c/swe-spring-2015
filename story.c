@@ -29,7 +29,7 @@ int main( void )
   amd2b7_sentence2();
   pld9bc_1();
 
-  
+
   devinsSentence1();
   jebd4f_Sentence1();
   devinsSentence2();
@@ -40,17 +40,20 @@ int main( void )
   bar5z6Sentence2();
   lmwv2c_second();
 
+  cmm9r2_sentence2();
+
   qltf8();
   qltf8_next();
 
 //  jmlmdf();
-  //jmlmdfnext();  
+  //jmlmdfnext();
 jebd4f_Sentence2();
 iphvg5_sentence1();
-  
+
+cmm9r2_sentence1();
+
   // Bens sentence should be last.
   bensSentence_FINAL();
 
   printf("\n\n");
 }
-
