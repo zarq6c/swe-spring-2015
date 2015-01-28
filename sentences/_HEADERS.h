@@ -52,3 +52,5 @@ int ska6f8Sentence();
 int ska6f8_Sentence2();
 int baotm4_sentence1();
 int baotm4_sentence2();
+int ahpb75_sentence1();
+int ahpb75_sentence2();

@@ -24,6 +24,7 @@ int main( void )
     tnrn9b2();
     jpvc4_Sentence1();
     bar5z6Sentence1();
+    ahpb75_sentence1();
     jpvc4_Sentence2();
     amd2b7_sentence1();
     pld9bc_2();
@@ -38,6 +39,7 @@ int main( void )
     kllxvd();
     kllxvd2();
     racn88_s2();
+    ahpb75_sentence2();
     bar5z6Sentence2();
     lmwv2c_second();
 
