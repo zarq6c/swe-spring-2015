@@ -34,6 +34,8 @@ int pld9bc_1();
 int pld9bc_2();
 int blhtkd_sentence1();
 int blhtkd_sentence2();
+void kjmd54SentenceOne();
+void kjmd54SentenceTwo();
 int racn88_s1();
 int racn88_s2();
 int zzff8_sentence1();

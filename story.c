@@ -5,66 +5,66 @@
 
 int main( void )
 {
+    printf("\n\n");
+    bensSentence1();
+    printf("\n\n");
 
-  printf("\n\n");
-  bensSentence1();
-  printf("\n\n");
+    // Add your sentence.
+    // Don't forget to update the header file.
+    bmwr84();
+    printf(" ");
+    darrensSentence1();
+    iphvg5_sentence2();
 
-  // Add your sentence.
-  // Don't forget to update the header file.
-  bmwr84();
-  printf(" ");
-  darrensSentence1();
-  iphvg5_sentence2();
-  
-  lmwv2c_first();
-  bmwr84_second();
-  racn88_s2();
-  darrensSentence2();
-  tnrn9b1();
-  tnrn9b2();
-  jpvc4_Sentence1();
-  bar5z6Sentence1();
-  jpvc4_Sentence2();
-  amd2b7_sentence1();
-  pld9bc_2();
-  amd2b7_sentence2();
-  pld9bc_1();
+    lmwv2c_first();
+    bmwr84_second();
+    racn88_s2();
+    darrensSentence2();
+    tnrn9b1();
+    tnrn9b2();
+    jpvc4_Sentence1();
+    bar5z6Sentence1();
+    jpvc4_Sentence2();
+    amd2b7_sentence1();
+    pld9bc_2();
+    amd2b7_sentence2();
+    pld9bc_1();
 
-  
-  devinsSentence1();
-  jebd4f_Sentence1();
-  devinsSentence2();
-  
 
-  kllxvd();
-  kllxvd2();
-  racn88_s2();
-  xdb57_sentence1();
-  bar5z6Sentence2();
-  xdb57_sentence2();
-  lmwv2c_second();
+    devinsSentence1();
+    jebd4f_Sentence1();
+    devinsSentence2();
 
-  qltf8();
-  qltf8_next();
+    kllxvd();
+    kllxvd2();
+    racn88_s2();
+    bar5z6Sentence2();
+    lmwv2c_second();
 
-  jmlmdf();
-  jmlmdfnext();  
-jebd4f_Sentence2();
-iphvg5_sentence1();
-//tps9tb_sentence1(); 
-//tps9tb_sentence2(); 
-  
+    qltf8();
+    qltf8_next();
+
+    jmlmdf();
+    jmlmdfnext();
+    jebd4f_Sentence2();
+    iphvg5_sentence1();
+
+    blhtkd_sentence1();
+    blhtkd_sentence2();
+
+    kjmd54SentenceOne();
+    kjmd54SentenceTwo();
+
     zzff8_sentence1();
     zzff8_sentence2();
-	ldbnr4_sentence1();
+    ldbnr4_sentence1();
     ldbnr4_sentence2();
-	xltz6_1();
-	xltz6_2();
-    
-  // Bens sentence should be last.
-  bensSentence_FINAL();
+    xltz6_1();
+    xltz6_2();
 
-  printf("\n\n");
+    // Bens sentence should be last.
+    bensSentence_FINAL();
+
+    printf("\n\n");
 }
 
