@@ -35,7 +35,6 @@ int main( void )
     jebd4f_Sentence1();
     devinsSentence2();
 
-
     kllxvd();
     kllxvd2();
     racn88_s2();
@@ -55,6 +54,13 @@ int main( void )
 
     kjmd54SentenceOne();
     kjmd54SentenceTwo();
+
+    zzff8_sentence1();
+    zzff8_sentence2();
+    ldbnr4_sentence1();
+    ldbnr4_sentence2();
+    xltz6_1();
+    xltz6_2();
 
     // Bens sentence should be last.
     bensSentence_FINAL();
