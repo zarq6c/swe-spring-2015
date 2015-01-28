@@ -31,12 +31,11 @@ int main( void )
   amd2b7_sentence2();
   pld9bc_1();
 
-  
+  edw8n8_SENTENCE1();
   devinsSentence1();
   jebd4f_Sentence1();
   devinsSentence2();
-  
-
+	
   kllxvd();
   kllxvd2();
   racn88_s2();
@@ -57,9 +56,8 @@ iphvg5_sentence1();
     zzff8_sentence2();
     
   // Bens sentence should be last.
-  bensSentence_FINAL();
-  edw8n8_SENTENCE1();
   edw8n8_SENTENCE2();
+  bensSentence_FINAL();
 
   printf("\n\n");
 }

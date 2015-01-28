@@ -2,12 +2,12 @@
 
 int edw8n8_SENTENCE1()
 {
-	printf("PS It's not actually the end. It's never the end.");
+	printf("A wild Tangela appears!\n");
 	return 1;
 }
 
 int edw8n8_SENTENCE2()
 {
-	printf("Kidding it is the end. Follow me into the rabbit hole 0.0");
+	printf("The Tangela that previously appeared says 'Follow me into the rabbit hole 0.0' and runs off!\n");
 	return 1;
 } 
