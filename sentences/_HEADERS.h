@@ -3,6 +3,8 @@ int bensSentence1();
 int bensSentence_FINAL();
 
 // DECLARE YOUR symbols here, implement them in a standalone C file
+int apcvzb_first();
+int apcvzb_second();
 int bmwr84();
 int bmwr84_second();
 int darrensSentence1();
@@ -56,4 +58,3 @@ int baotm4_sentence1();
 int baotm4_sentence2();
 int ahpb75_sentence1();
 int ahpb75_sentence2();
-
