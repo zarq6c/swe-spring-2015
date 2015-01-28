@@ -2,12 +2,12 @@
 
 int xltz6_1()
 {
-	printf("So Agent Buckwald decided to find the Sasquatch.\n");
+	printf("Agent Buckwald helped the Sasquatch to fight with the Mothman, Tiger and Frog also joined the battle. \n");
 	return 1;
 }
 
 int xltz6_2()
 {
-    printf("Unfortunately, the Sasquatch were having a fight with the Mothman which belonged to Winged Humanoids.\n");
+    printf("With the help of Buckwald and Animals,the Sasquatch won the battle. \n");
 	return 1;
 }
