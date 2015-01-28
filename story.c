@@ -42,6 +42,7 @@ int main( void )
     lmwv2c_second();
 
     qltf8();
+	apcvzb_first();
     qltf8_next();
 
     jmlmdf();
@@ -69,7 +70,7 @@ int main( void )
    
 	baotm4_sentence1();
 	baotm4_sentence2();
-
+	apcvzb_second();
     // Bens sentence should be last.
     bensSentence_FINAL();
 
