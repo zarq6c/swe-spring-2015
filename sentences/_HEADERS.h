@@ -46,5 +46,5 @@ int ldbnr4_sentence1();
 int ldbnr4_sentence2();
 int xltz6_1();
 int xltz6_2();
-int aap455_Sentence1();
-int aap455_Sentence2();
+//int aap455_Sentence1();
+//int aap455_Sentence2();
