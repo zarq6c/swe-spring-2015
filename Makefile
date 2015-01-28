@@ -52,7 +52,7 @@ clean:
 # -----------------------------------------------
 
 story: story.o bpbkt7.o bmwr84.o dse2pd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o \
-		iphvg5.o lmwv2c.o
+		iphvg5.o lmwv2c.o kpm8v5.o
 	$(CC) -o story $^
 
 #pawprint.o - where is your .c derived object file - where is your file
@@ -91,4 +91,5 @@ iphvg5.o: sentences/iphvg5.c
 	$(CC) -c $<
 lmwv2c.o: sentences/lmwv2c.c
 	$(CC) -c $<
-	
+kpm8v5.o: sentences/kpm8v5.c
+	$(CC) -c $<	

@@ -29,3 +29,5 @@ int iphvg5_sentence1();
 int iphvg5_sentence2();
 void lmwv2c_first();
 void lmwv2c_second();
+int kpm8v5sent1();
+int kpm8v5sent2();

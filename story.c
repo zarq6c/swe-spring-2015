@@ -34,7 +34,7 @@ int main( void )
 
   kllxvd();
   kllxvd2();
-
+  kpm8v5sent1();
   bar5z6Sentence2();
   lmwv2c_second();
   qltf8();
@@ -43,7 +43,7 @@ int main( void )
   //jmlmdfnext();  
 jebd4f_Sentence2();
 iphvg5_sentence1();
-  
+  kpm8v5sent2();  
   // Bens sentence should be last.
   bensSentence_FINAL();
 
