@@ -66,6 +66,9 @@ int main( void )
     xltz6_2();
    // aap455_Sentence1();
    // aap455_Sentence2();
+   
+	baotm4_sentence1();
+	baotm4_sentence2();
 
     // Bens sentence should be last.
     bensSentence_FINAL();

@@ -50,3 +50,5 @@ int xltz6_2();
 //int aap455_Sentence2();
 int ska6f8Sentence();
 int ska6f8_Sentence2();
+int baotm4_sentence1();
+int baotm4_sentence2();
