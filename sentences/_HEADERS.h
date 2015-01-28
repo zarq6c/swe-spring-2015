@@ -50,10 +50,10 @@ int xltz6_2();
 //int aap455_Sentence2();
 int ska6f8Sentence();
 int ska6f8_Sentence2();
-<<<<<<< HEAD
 int eagcm8_sentence1();
 int eagcm8_sentence2();
-=======
 int baotm4_sentence1();
 int baotm4_sentence2();
->>>>>>> 8908ab141bf18617a65dbf40085dc798a6351ea2
+int ahpb75_sentence1();
+int ahpb75_sentence2();
+
