@@ -117,3 +117,5 @@ ska6f8.o: sentences/ska6f8.c
 
 baotm4.o: sentences/baotm4.c
 	$(CC) -c $<
+cjbq4f.o: sentences/cjbq4f.c
+	$(CC) -c $<

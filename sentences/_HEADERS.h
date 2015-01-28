@@ -15,7 +15,6 @@ int devinsSentence1();
 int devinsSentence2();
 int kllxvd();
 int kllxvd2();
-
 int qltf8();
 int qltf8_next();
 int tnrn9b1();
@@ -50,10 +49,10 @@ int xltz6_2();
 //int aap455_Sentence2();
 int ska6f8Sentence();
 int ska6f8_Sentence2();
-<<<<<<< HEAD
 int eagcm8_sentence1();
 int eagcm8_sentence2();
-=======
 int baotm4_sentence1();
 int baotm4_sentence2();
->>>>>>> 8908ab141bf18617a65dbf40085dc798a6351ea2
+void cjbq4f_first();
+void cjbq4f_second();
+
