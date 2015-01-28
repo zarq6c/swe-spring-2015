@@ -48,10 +48,13 @@ int main( void )
     jmlmdfnext();
     jebd4f_Sentence2();
     iphvg5_sentence1();
+    ska6f8Sentence();
+    ska6f8_Sentence2();
 
 //    blhtkd_sentence1();
 //    blhtkd_sentence2();
 // TODO fix this
+
     kjmd54SentenceOne();
     kjmd54SentenceTwo();
 

@@ -48,3 +48,5 @@ int xltz6_1();
 int xltz6_2();
 //int aap455_Sentence1();
 //int aap455_Sentence2();
+int ska6f8Sentence();
+int ska6f8_Sentence2();
