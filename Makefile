@@ -100,8 +100,8 @@ racn88.o: sentences/racn88.c
 	$(CC) -c $<
 zzff8.o: sentences/zzff8.c
 	$(CC) -c $<
-kjmd54.o sentences/kjmd54.c
-    $(CC) -c $<
+//kjmd54.o: sentences/kjmd54.c
+	//$(CC) -c $<
 tps9tb.o: sentences/tps9tb.c
 	$(CC) -c $<
 xdb57.o: sentences/xdb57.c
