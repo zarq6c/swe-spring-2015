@@ -117,8 +117,9 @@ xltz6.o: sentences/xltz6.c
 	//$(CC) -c $<
 ska6f8.o: sentences/ska6f8.c
 	$(CC) -c $<
-
 baotm4.o: sentences/baotm4.c
 	$(CC) -c $<
 ahpb75.o: sentences/ahpb75.c
+	$(CC) -c $<
+cjbq4f.o: sentences/cjbq4f.c
 	$(CC) -c $<

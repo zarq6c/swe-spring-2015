@@ -22,6 +22,7 @@ int main( void )
     darrensSentence2();
     tnrn9b1();
     tnrn9b2();
+    cjbq4f_first();
     jpvc4_Sentence1();
     bar5z6Sentence1();
     ahpb75_sentence1();
@@ -46,6 +47,7 @@ int main( void )
     qltf8();
 	apcvzb_first();
     qltf8_next();
+    cjbq4f_second();
 
     jmlmdf();
     jmlmdfnext();

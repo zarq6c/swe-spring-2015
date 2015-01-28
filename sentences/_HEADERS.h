@@ -17,7 +17,6 @@ int devinsSentence1();
 int devinsSentence2();
 int kllxvd();
 int kllxvd2();
-
 int qltf8();
 int qltf8_next();
 int tnrn9b1();
@@ -58,3 +57,5 @@ int baotm4_sentence1();
 int baotm4_sentence2();
 int ahpb75_sentence1();
 int ahpb75_sentence2();
+void cjbq4f_first();
+void cjbq4f_second();
