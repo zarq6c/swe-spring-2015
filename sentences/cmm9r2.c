@@ -2,11 +2,11 @@
 
 int cmm9r2_sentence1()
   {
-    printf("There was a dragon,");
+    print("Harry Potter is the chosen one.");
     return 1;
   }
 int	cmm9r2_sentence2()
   {
-    printf("The dragon breathed his firey breath");
+    printf("Yet, Neville Longbottom is the hero to this story.");
     return 1;
   }
