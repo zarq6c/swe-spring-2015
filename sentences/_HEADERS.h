@@ -65,3 +65,5 @@ int rwg58();
 int rwg58_next();
 void djb8tc_1();
 void djb8tc_2();
+int madelynsSentence1();
+int madelynsSentence2();

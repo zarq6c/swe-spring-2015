@@ -83,6 +83,8 @@ int main( void )
 	xcqrf();
         xcqrf_next();
 	djb8tc_2();
+	madelynsSentence1();
+	madelynsSentence2();
     // Bens sentence should be last.
     bensSentence_FINAL();
 
