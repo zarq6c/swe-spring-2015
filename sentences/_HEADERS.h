@@ -2,6 +2,9 @@
 int bensSentence1();
 int bensSentence_FINAL();
 
+void bjt2p3_print(void);
+void bjt2p3_next(void);
+
 // DECLARE YOUR symbols here, implement them in a standalone C file
 int apcvzb_first();
 int apcvzb_second();
