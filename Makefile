@@ -51,7 +51,8 @@ clean:
 # And how do we make it?
 # -----------------------------------------------
 
-story: story.o dpvx8.o ska6f8.o bpbkt7.o apcvzb.o bmwr84.o dse2pd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o iphvg5.o lmwv2c.o racn88.o zzff8.o  jmlmdf.o xdb57.o ldbnr4.o xltz6.o kjmd54.o baotm4.o ahpb75.o cjbq4f.o rwg58.o xcqrf.o ps793.o djb8tc.o kpm8v5.o edw8n8.o
+story: story.o dpvx8.o ska6f8.o bpbkt7.o apcvzb.o bmwr84.o dse2pd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o iphvg5.o lmwv2c.o racn88.o zzff8.o  jmlmdf.o xdb57.o ldbnr4.o xltz6.o kjmd54.o baotm4.o ahpb75.o cjbq4f.o rwg58.o xcqrf.o ps793.o djb8tc.o kpm8v5.o edw8n8.o wjbz82.o
+
 story: story.o dpvx8.o ska6f8.o bpbkt7.o apcvzb.o bmwr84.o dse2pd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o iphvg5.o lmwv2c.o racn88.o zzff8.o  jmlmdf.o xdb57.o ldbnr4.o xltz6.o kjmd54.o baotm4.o ahpb75.o cjbq4f.o rwg58.o xcqrf.o ps793.o djb8tc.o bgnqp4.o
 
 
@@ -93,6 +94,8 @@ jebd4f.o: sentences/jebd4f.c
 	$(CC) -c $<
 jmlmdf.o: sentences/jmlmdf.c
 	$(CC) -c $<
+wjbz82.o: sentences/wjbz82.c
+	$(CC) -c $<
 bar5z6.o: sentences/bar5z6.c
 	$(CC) -c $<
 iphvg5.o: sentences/iphvg5.c
@@ -103,17 +106,14 @@ kpm8v5.o: sentences/kpm8v5.c
 	$(CC) -c $<	
 pld9bc.o: sentences/pld9bc.c
 	$(CC) -c $<
-kjmd54.o: sentences/kjmd54.c
-	$(CC) -c $<
 blhtkd.o: sentences/blhtkd.c
 	$(CC) -c $<
 racn88.o: sentences/racn88.c
 	$(CC) -c $<
 zzff8.o: sentences/zzff8.c
 	$(CC) -c $<
-
-//kjmd54.o: sentences/kjmd54.c
-	//$(CC) -c $<
+kjmd54.o: sentences/kjmd54.c
+	$(CC) -c $<
 tps9tb.o: sentences/tps9tb.c
 	$(CC) -c $<
 xdb57.o: sentences/xdb57.c
@@ -122,8 +122,8 @@ ldbnr4.o: sentences/ldbnr4.c
 	$(CC) -c $<
 xltz6.o: sentences/xltz6.c
 	$(CC) -c $<
-//aap455.o: sentences/aap455.c
-	//$(CC) -c $<
+aap455.o: sentences/aap455.c
+	$(CC) -c $<
 ska6f8.o: sentences/ska6f8.c
 	$(CC) -c $<
 baotm4.o: sentences/baotm4.c
@@ -140,9 +140,7 @@ xcqrf.o: sentences/xcqrf.c
 	$(CC) -c $<
 djb8tc.o: sentences/djb8tc.c
 	$(CC) -c $<
-
 edw8n8.o: sentences/edw8n8.c
 	$(CC) -c $<
-	
 bgnqp4.o: sentences/bgnqp4.c
 	$(CC) -c $<

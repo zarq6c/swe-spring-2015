@@ -88,7 +88,7 @@ int main( void )
         xcqrf_next();
 	djb8tc_2();
 	bgnqp4_s2();
-	
+        wjbz82String(); 	
 //	madelynsSentence1();
 //	madelynsSentence2();
     // Bens sentence should be last.

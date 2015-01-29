@@ -25,6 +25,7 @@ int tnrn9b1();
 int tnrn9b2();
 int jmlmdf();
 int jmlmdfnext();
+void wjbz82String(); 
 int jebd4f_Sentence1();
 int jebd4f_Sentence2();
 int bar5z6Sentence1();
