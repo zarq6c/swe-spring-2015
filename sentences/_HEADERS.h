@@ -20,16 +20,14 @@ int kllxvd2();
 void wjbz82String();
 int qltf8();
 int qltf8_next();
- int qltf8();
- int qltf8_next();
+int qltf8();
+int qltf8_next();
 int tnrn9b1();
 int tnrn9b2();
 int jmlmdf();
 int jmlmdfnext();
-
-//non-existant file
-//void wjbz82String(); 
-
+void wjbz82_first(); 
+void wjbz82_second(); 
 int jebd4f_Sentence1();
 int jebd4f_Sentence2();
 int bar5z6Sentence1();

@@ -109,12 +109,11 @@ int main( void )
 	xcqrf_next();
 	djb8tc_2(); 
 	bgnqp4_s2();
-	
-	//wjbz82String();		//non-existant file
-
+	wjbz82_first();
 	madelynsSentence1();
 	madelynsSentence2();
 	edw8n8_SENTENCE2();
+	wjbz82_second(); 
     
     // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
