@@ -7,6 +7,7 @@ int masyv6FirstSentence()
 	return 1;
 }
 
+
 //2nd Function
 int masyv6SecondSentence()
 {
