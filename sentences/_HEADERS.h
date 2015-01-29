@@ -65,3 +65,5 @@ int rwg58();
 int rwg58_next();
 void djb8tc_1();
 void djb8tc_2();
+void bgnqp4_s1();
+void bgnqp4_s2();
