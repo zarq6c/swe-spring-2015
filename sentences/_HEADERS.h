@@ -84,3 +84,5 @@ void bgnqp4_s1();
 void bgnqp4_s2();
 int rcsc77First();
 int rcsc77Second();
+void tehww4_s1();
+void tehww4_s2();

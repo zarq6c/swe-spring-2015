@@ -141,6 +141,8 @@ iphvg5_sentence1();
   // Bens sentence should be last.
   wjbz82_second(); 
   edw8n8_SENTENCE2();
+  tehww4_s1();
+  tehww4_s2();
   bensSentence_FINAL();
       printf("\n\n");
 }
