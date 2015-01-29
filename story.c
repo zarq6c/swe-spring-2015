@@ -51,6 +51,7 @@ int main( void )
     racn88_s2();
     darrensSentence2();
     tnrn9b1();
+    skhhdc_sent1();
     tnrn9b2();
     cjbq4f_first();
 	djb8tc_1();
@@ -58,6 +59,7 @@ int main( void )
     bar5z6Sentence1();
     ahpb75_sentence1();
     jpvc4_Sentence2();
+    skhhdc_sent2();
     bgnqp4_s1();
     amd2b7_sentence1();
     pld9bc_2();

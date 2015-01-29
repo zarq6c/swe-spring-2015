@@ -85,6 +85,8 @@ int edw8n8_SENTENCE1();
 int edw8n8_SENTENCE2();
 void bgnqp4_s1();
 void bgnqp4_s2();
+int skhhdc_sent1();
+int skhhdc_sent2();
 
 //non-existant file
 //int rcsc77First();

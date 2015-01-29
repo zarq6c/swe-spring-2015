@@ -54,7 +54,7 @@ clean:
 #<<<<<<< HEAD
 #story: story.o wjbz82.o dpvx8.o ska6f8.o bpbkt7.o apcvzb.o bmwr84.o dse2pd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o iphvg5.o lmwv2c.o racn88.o zzff8.o  jmlmdf.o xdb57.o ldbnr4.o xltz6.o kjmd54.o baotm4.o ahpb75.o cjbq4f.o rwg58.o xcqrf.o ps793.o djb8tc.o kpm8v5.o edw8n8.o bgnqp4.o masyv6.o
 #=======
-story: story.o dpvx8.o ska6f8.o wjbz82.o bpbkt7.o apcvzb.o cmm9r2.o mcs526.o bmwr84.o dse2pd.o blhtkd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o iphvg5.o lmwv2c.o racn88.o zzff8.o  jmlmdf.o xdb57.o ldbnr4.o xltz6.o kjmd54.o baotm4.o ahpb75.o cjbq4f.o rwg58.o xcqrf.o ps793.o djb8tc.o kpm8v5.o edw8n8.o bgnqp4.o masyv6.o bjt2p3.o
+story: story.o dpvx8.o ska6f8.o wjbz82.o bpbkt7.o skhhdc.o apcvzb.o cmm9r2.o mcs526.o bmwr84.o dse2pd.o blhtkd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o iphvg5.o lmwv2c.o racn88.o zzff8.o  jmlmdf.o xdb57.o ldbnr4.o xltz6.o kjmd54.o baotm4.o ahpb75.o cjbq4f.o rwg58.o xcqrf.o ps793.o djb8tc.o kpm8v5.o edw8n8.o bgnqp4.o masyv6.o bjt2p3.o
 #>>>>>> dse2pd
 	$(CC) -o story $^
 
@@ -77,6 +77,8 @@ apcvzb.o: sentences/apcvzb.c
 bpbkt7.o: sentences/bpbkt7.c
 	$(CC) -c $<
 bmwr84.o: sentences/bmwr84.c
+	$(CC) -c $<
+skhhdc.o: sentences/skhhdc.c
 	$(CC) -c $<
 dse2pd.o: sentences/dse2pd.c
 	$(CC) -c $<
