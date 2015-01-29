@@ -75,8 +75,8 @@ int main( void )
 	baotm4_sentence1();
 	baotm4_sentence2();
 	apcvzb_second();
-	//ps793_sentence1();
-	//ps793_sentence2();
+	ps793_sentence1();
+	ps793_sentence2();
 	rwg58();
 	rwg58_next();
 	xcqrf();
