@@ -2,7 +2,7 @@
 
 int cmm9r2_sentence1()
   {
-    print("Harry Potter is the chosen one.");
+    printf("Harry Potter is the chosen one.");
     return 1;
   }
 int	cmm9r2_sentence2()

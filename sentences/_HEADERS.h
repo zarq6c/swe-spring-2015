@@ -26,7 +26,10 @@ int tnrn9b1();
 int tnrn9b2();
 int jmlmdf();
 int jmlmdfnext();
-void wjbz82String(); 
+
+//non-existant file
+//void wjbz82String(); 
+
 int jebd4f_Sentence1();
 int jebd4f_Sentence2();
 int bar5z6Sentence1();
@@ -53,8 +56,8 @@ int ldbnr4_sentence1();
 int ldbnr4_sentence2();
 int xltz6_1();
 int xltz6_2();
-//int aap455_Sentence1();
-//int aap455_Sentence2();
+int aap455_Sentence1();
+int aap455_Sentence2();
 int ska6f8Sentence();
 int ska6f8_Sentence2();
 int eagcm8_sentence1();
@@ -81,5 +84,13 @@ int edw8n8_SENTENCE1();
 int edw8n8_SENTENCE2();
 void bgnqp4_s1();
 void bgnqp4_s2();
-int rcsc77First();
-int rcsc77Second();
+
+//non-existant file
+//int rcsc77First();
+//int rcsc77Second();
+
+
+int cmm9r2_sentence1();
+int cmm9r2_sentence2();
+int masyv6FirstSentence();
+int masyv6SecondSentence();
