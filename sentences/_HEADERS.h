@@ -92,3 +92,7 @@ int cmm9r2_sentence1();
 int cmm9r2_sentence2();
 int masyv6FirstSentence();
 int masyv6SecondSentence();
+int rcsc77First();
+int rcsc77Second();
+void tehww4_s1();
+void tehww4_s2();
