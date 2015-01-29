@@ -131,7 +131,7 @@ iphvg5_sentence1();
         xcqrf_next();
 	djb8tc_2(); 
 	bgnqp4_s2();
-        //wjbz82String(); 	
+  wjbz82_first(); 
 //	madelynsSentence1();
 //	madelynsSentence2();
     // Bens sentence should be last.
@@ -139,6 +139,7 @@ iphvg5_sentence1();
 
     
   // Bens sentence should be last.
+  wjbz82_second(); 
   edw8n8_SENTENCE2();
   bensSentence_FINAL();
       printf("\n\n");
