@@ -61,3 +61,5 @@ void cjbq4f_first();
 void cjbq4f_second();
 int ps793_sentence1();
 int ps793_sentence2();
+int rwg58();
+int rwg58_next();
