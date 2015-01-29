@@ -63,3 +63,5 @@ int ps793_sentence1();
 int ps793_sentence2();
 int rwg58();
 int rwg58_next();
+int epkqmb_sentence1();
+int epkqmb_sentence2();
