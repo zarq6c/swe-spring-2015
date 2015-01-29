@@ -73,3 +73,5 @@ void dpvx8First();
 void dpvx8Second();
 int madelynsSentence1();
 int madelynsSentence2();
+int edw8n8_SENTENCE1();
+int edw8n8_SENTENCE2();
