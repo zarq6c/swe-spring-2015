@@ -55,7 +55,7 @@ story: story.o ska6f8.o bpbkt7.o apcvzb.o bmwr84.o dse2pd.o jpvc4.o amd2b7.o dc4
 
 	$(CC) -o story $^
 
-#pawprint.o - where is your .c derived object file - where is your file
+#pawprint.o -  where is your .c derived object file - where is your file
 
 # -----------------------------------------------
 

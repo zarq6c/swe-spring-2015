@@ -31,7 +31,7 @@ int main( void )
     amd2b7_sentence1();
     pld9bc_2();
     amd2b7_sentence2();
-    pld9bc_1();
+     pld9bc_1();
 
 
     devinsSentence1();
@@ -47,7 +47,7 @@ int main( void )
 
     qltf8();
 	apcvzb_first();
-    qltf8_next();
+     qltf8_next();
     cjbq4f_second();
 
     jmlmdf();
