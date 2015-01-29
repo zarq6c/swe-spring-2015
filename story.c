@@ -28,22 +28,25 @@ int main( void )
     bar5z6Sentence1();
     ahpb75_sentence1();
     jpvc4_Sentence2();
+    bgnqp4_s1();
     amd2b7_sentence1();
     pld9bc_2();
     amd2b7_sentence2();
      pld9bc_1();
 
 
-    devinsSentence1();
-    jebd4f_Sentence1();
-    devinsSentence2();
 
-    kllxvd();
-    kllxvd2();
-    racn88_s2();
-    ahpb75_sentence2();
-    bar5z6Sentence2();
-    lmwv2c_second();
+  edw8n8_SENTENCE1();
+  devinsSentence1();
+  jebd4f_Sentence1();
+  devinsSentence2();
+	
+  kllxvd();
+  kllxvd2();
+  racn88_s2();
+  bar5z6Sentence2();
+  lmwv2c_second();
+
 
      qltf8();
 	apcvzb_first();
@@ -83,11 +86,18 @@ int main( void )
 	rwg58_next();
 	xcqrf();
         xcqrf_next();
-	djb8tc_2();
-        wjbz82String(); 
+	djb8tc_2(); 
+	bgnqp4_s2();
+        wjbz82String(); 	
 //	madelynsSentence1();
 //	madelynsSentence2();
     // Bens sentence should be last.
-    bensSentence_FINAL();
+
+
+    
+  // Bens sentence should be last.
+  edw8n8_SENTENCE2();
+  bensSentence_FINAL();
+      printf("\n\n");
 }
 
