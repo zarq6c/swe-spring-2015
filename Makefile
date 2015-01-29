@@ -129,5 +129,3 @@ rwg58.o: sentences/rwg58.c
 	$(CC) -c $<
 xcqrf.o: sentences/xcqrf.c
 	$(CC) -c $<
-ps793.o: sentences/ps793.c
-	$(CC) -c $<
