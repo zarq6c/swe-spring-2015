@@ -202,7 +202,9 @@ int main( void )
 	madelynsSentence1();
 	madelynsSentence2();
 	edw8n8_SENTENCE2();
-	wjbz82_second(); 
+	wjbz82_second();
+	rcecp2_s1();
+	rcecp2_s2();
     
     // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.

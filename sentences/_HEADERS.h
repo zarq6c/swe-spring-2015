@@ -96,3 +96,5 @@ int rcsc77First();
 int rcsc77Second();
 void tehww4_s1();
 void tehww4_s2();
+void rcecp2_s1();
+void rcecp2_s2();
