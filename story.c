@@ -28,7 +28,7 @@ int main( void )
   lmwv2c_first();
   bmwr84_second();
   darrensSentence2();
-  rcsc77First();
+  //rcsc77First();
   tnrn9b1();
   tnrn9b2();
   jpvc4_Sentence1();
@@ -98,7 +98,7 @@ iphvg5_sentence1();
     dpvx8First();
     jebd4f_Sentence2();
     iphvg5_sentence1();
-    rcsc77Second();
+    //rcsc77Second();
     ska6f8Sentence();
     ska6f8_Sentence2();
     kpm8v5sent1();
@@ -131,7 +131,7 @@ iphvg5_sentence1();
         xcqrf_next();
 	djb8tc_2(); 
 	bgnqp4_s2();
-        //wjbz82String(); 	
+        wjbz82_first();  	
 //	madelynsSentence1();
 //	madelynsSentence2();
     // Bens sentence should be last.
@@ -139,6 +139,7 @@ iphvg5_sentence1();
 
     
   // Bens sentence should be last.
+  wjbz82_second(); 
   edw8n8_SENTENCE2();
   bensSentence_FINAL();
       printf("\n\n");

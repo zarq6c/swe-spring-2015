@@ -51,7 +51,7 @@ clean:
 # And how do we make it?
 # -----------------------------------------------
 
-story: story.o dpvx8.o ska6f8.o bpbkt7.o apcvzb.o bmwr84.o dse2pd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o iphvg5.o lmwv2c.o racn88.o zzff8.o  jmlmdf.o xdb57.o ldbnr4.o xltz6.o kjmd54.o baotm4.o ahpb75.o cjbq4f.o rwg58.o xcqrf.o ps793.o djb8tc.o kpm8v5.o edw8n8.o bgnqp4.o masyv6.o rcsc77.o
+story: story.o wjbz82.o dpvx8.o ska6f8.o bpbkt7.o apcvzb.o bmwr84.o dse2pd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o iphvg5.o lmwv2c.o racn88.o zzff8.o  jmlmdf.o xdb57.o ldbnr4.o xltz6.o kjmd54.o baotm4.o ahpb75.o cjbq4f.o rwg58.o xcqrf.o ps793.o djb8tc.o kpm8v5.o edw8n8.o bgnqp4.o masyv6.o
 	$(CC) -o story $^
 
 #pawprint.o -  where is your .c derived object file - where is your file
@@ -144,5 +144,5 @@ bgnqp4.o: sentences/bgnqp4.c
 	$(CC) -c $<
 masyv6.o: sentences/masyv6.c
 	$(CC) -c $<
-rcsc77.o: sentences/rcsc77.c
-	$(CC) -c $<
+#rcsc77.o: sentences/rcsc77.c
+#	$(CC) -c $<
