@@ -205,8 +205,8 @@ int main( void )
 	madelynsSentence2();
 	edw8n8_SENTENCE2();
 	wjbz82_second(); 
-	bjt2p3_print();
-	bjt2p3_next();	
+	//bjt2p3_print();
+	//bjt2p3_next();	
     
     // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
