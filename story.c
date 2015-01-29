@@ -79,6 +79,8 @@ int main( void )
 	//ps793_sentence2();
 	rwg58();
 	rwg58_next();
+	xcqrf();
+        xcqrf_next();
     // Bens sentence should be last.
     bensSentence_FINAL();
 
