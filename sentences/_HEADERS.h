@@ -17,9 +17,8 @@ int devinsSentence1();
 int devinsSentence2();
 int kllxvd();
 int kllxvd2();
-
-int qltf8();
-int qltf8_next();
+ int qltf8();
+ int qltf8_next();
 int tnrn9b1();
 int tnrn9b2();
 int jmlmdf();
@@ -54,10 +53,23 @@ int xltz6_2();
 //int aap455_Sentence2();
 int ska6f8Sentence();
 int ska6f8_Sentence2();
-
 int eagcm8_sentence1();
 int eagcm8_sentence2();
-
 int baotm4_sentence1();
 int baotm4_sentence2();
-
+int ahpb75_sentence1();
+int ahpb75_sentence2();
+void cjbq4f_first();
+void cjbq4f_second();
+int ps793_sentence1();
+int ps793_sentence2();
+int rwg58();
+int rwg58_next();
+void djb8tc_1();
+void djb8tc_2();
+int xcqrf();
+int xcqrf_next();
+void dpvx8First();
+void dpvx8Second();
+int madelynsSentence1();
+int madelynsSentence2();

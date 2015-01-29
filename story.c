@@ -17,17 +17,21 @@ int main( void )
 
     lmwv2c_first();
     bmwr84_second();
+    dpvx8Second();
     racn88_s2();
     darrensSentence2();
     tnrn9b1();
     tnrn9b2();
+    cjbq4f_first();
+	djb8tc_1();
     jpvc4_Sentence1();
     bar5z6Sentence1();
+    ahpb75_sentence1();
     jpvc4_Sentence2();
     amd2b7_sentence1();
     pld9bc_2();
     amd2b7_sentence2();
-    pld9bc_1();
+     pld9bc_1();
 
 
     devinsSentence1();
@@ -37,15 +41,18 @@ int main( void )
     kllxvd();
     kllxvd2();
     racn88_s2();
+    ahpb75_sentence2();
     bar5z6Sentence2();
     lmwv2c_second();
 
     qltf8();
 	apcvzb_first();
-    qltf8_next();
+     qltf8_next();
+    cjbq4f_second();
 
     jmlmdf();
     jmlmdfnext();
+    dpvx8First();
     jebd4f_Sentence2();
     iphvg5_sentence1();
     ska6f8Sentence();
@@ -70,6 +77,15 @@ int main( void )
 	baotm4_sentence1();
 	baotm4_sentence2();
 	apcvzb_second();
+	ps793_sentence1();
+	ps793_sentence2();
+	rwg58();
+	rwg58_next();
+	xcqrf();
+        xcqrf_next();
+	djb8tc_2();
+	madelynsSentence1();
+	madelynsSentence2();
     // Bens sentence should be last.
     bensSentence_FINAL();
 
