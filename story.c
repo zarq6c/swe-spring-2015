@@ -75,8 +75,7 @@ int main( void )
 	baotm4_sentence1();
 	baotm4_sentence2();
 	apcvzb_second();
-	ps793_sentence1();
-	ps793_sentence2();
+
     // Bens sentence should be last.
     bensSentence_FINAL();
 

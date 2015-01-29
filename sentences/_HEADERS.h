@@ -59,5 +59,4 @@ int ahpb75_sentence1();
 int ahpb75_sentence2();
 void cjbq4f_first();
 void cjbq4f_second();
-int ps793_sentence1();
-int ps793_sentence2();
+
