@@ -7,7 +7,11 @@ There was a dragon, and a Dover Demon walking around Dover, Massachusetts.
 
 There was also a group of Mokele-Mbembe but they had previously became extinct.
 The dragon knew that sophistication could never achieved without first addressing his halitosis.
+<<<<<<< HEAD
 The dragon breathed his firey breath.  Somehow the breath of the dragon caused some unrest in our hero, whoever that is.  Our hero was faced with a serious identity crisis 
+=======
+The dragon breathed his firey breathOur hero was faced with a serious identity crisis 
+>>>>>>> d26654dbf9ed5963a1ae283b9a90a33f324ceb3c
 
 The Dover Demon was terrorizing people with it's large head and tendril-like fingers. 
 As the dust settled, he realized that the city of Wyndoughs was destroyed when he froze his adversaries.
@@ -17,14 +21,18 @@ To pass the time, the wizard decided to do some logic design, because he felt li
 
 The wizard, satisfied with his insanity, began charging up his frost powers.The wizard used all of his energy keeping them frozen, waiting until a worthy hero would rise up to slay them.
 A noble hero stumbled upon the frozen foes and thought to himself, “If only I were 20 years younger, I could slay these here vermin and relive my days of glory!” 
-Thunder rumbled, and one could almost hear someone whisper "Only GNU will protect you."Little did he know that Agent Buckwald the wizard had secretly been working on to form a Link to the Past. This project wasn't using the GPL public license, bringing anger to the wise wizard Richard M Stallman.
+Thunder rumbled, and one could almost hear someone whisper "Only GNU will protect you."Little did he know that Agent Buckwald the wizard had secretly been working on to form a Link to the Past. This project wasn't using the GPL public license, bringing anger to the wise wizard Richard M Stallman.A wild Tangela appears!
+
 
 The noble hero, Zelda, and the wizard formed an allegiance and began work on a Temple of Time.
 The reader soon realized that this was not a video game, but the story must continue....It was in this temple of time the two hoped they could send our noble hero in his green pointed hat back in time. 
 Agent Buckwald the Wizard and Zelda worked hard on finding a way to send Zelda back 20 years to slay the dragon. 
 While in the lab, Agent Buckwald noted 'You look familiar.... Isn't your name actually Link...?' Our hero was faced with a serious identity crisis 
 
+<<<<<<< HEAD
 It's a good thing our hero purchased identity crisis insurance through a witch a fortnight ago, but Zelda still remained confused.
+=======
+>>>>>>> d26654dbf9ed5963a1ae283b9a90a33f324ceb3c
 Zelda replied...Uhh, I do not think you know what that word means.
 
 "Think Bucky! Think... Don't be such a jackalope!", commanded Agent Buckwald as he demanded a solution from himself.
@@ -32,6 +40,7 @@ Agent Buckwald thought a while, (For those who do not know, a jackalope is a lar
  The sinister Sasquatch had infiltrated the agency!  Zelda replied, 'Hell no.' Zelda then pulled out her laptop running Ubuntu, not Windows, Ubuntu, and showed Agent Buckwald a picture of Link.
 Agent Buckwald looked embarressed and said 'never mind. Lets focus on the mission.' He pushed on, ignoring the fact that there was a trail of hair behind his partner.  Agent Buckwald soon realized that it wasn't Link that he was dealing with, but it was the Sasquatch
  Sasquatch was really a member of the hairy humanoids.
+<<<<<<< HEAD
 While Agent Buckwald thinking and Zelda staring at him, suddenly ninjas appeared in the place.the ninjas surrounded Agent Buckwald, Zelda and the Wizard. One of the ninjas asked, “Did you find a way to find the link ? or should we ask father google ?!” then they disappears. 
 
 All of a sudden, a wild nessie appeared and decided to ruin this whole spiel and said, Why must you guys do this? I jus wan to be lef alone.
@@ -48,6 +57,12 @@ Agent Buckwald really happy, and then find something really fun.
 
 he laughed loudly, and then he suddenly stopped.
 The startled wizard just remembered that he had forgotten all about the frozen dragon and Dover demon! 
+=======
+
+this is just the testand he walk around
+The Tangela that previously appeared says 'Follow me into the rabbit hole 0.0' and runs off!
+
+>>>>>>> d26654dbf9ed5963a1ae283b9a90a33f324ceb3c
 The end. 
 
 
