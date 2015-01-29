@@ -101,3 +101,6 @@ int rcsc77First();
 int rcsc77Second();
 void tehww4_s1();
 void tehww4_s2();
+int ifh2k6_1();
+int ifh2k6_2();
+
