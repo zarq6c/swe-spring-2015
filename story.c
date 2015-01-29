@@ -45,9 +45,9 @@ int main( void )
     bar5z6Sentence2();
     lmwv2c_second();
 
-    qltf8();
+     qltf8();
 	apcvzb_first();
-     qltf8_next();
+    qltf8_next();
     cjbq4f_second();
 
     jmlmdf();
@@ -84,8 +84,8 @@ int main( void )
 	xcqrf();
         xcqrf_next();
 	djb8tc_2();
-	madelynsSentence1();
-	madelynsSentence2();
+//	madelynsSentence1();
+//	madelynsSentence2();
     // Bens sentence should be last.
     bensSentence_FINAL();
 

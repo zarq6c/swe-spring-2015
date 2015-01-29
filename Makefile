@@ -28,7 +28,7 @@ TEST= (./story > the_story.txt) ; cat the_story.txt
 # -----------------------------------------------
 # The standard default target is 'all'
 # This target has no command, only a dependency.
-# We will execute test though, when it's built.
+# We will execute test   though, when it's built.
 # -----------------------------------------------
 
 all: story
