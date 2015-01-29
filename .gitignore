@@ -21,9 +21,14 @@
 *.dylib
 
 # Executables
+story
 *.exe
 *.out
 *.app
 *.i*86
 *.x86_64
 *.hex
+
+# IDE
+*.idea/*
+CMakeLists.txt

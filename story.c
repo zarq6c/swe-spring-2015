@@ -5,56 +5,89 @@
 
 int main( void )
 {
+    printf("\n\n");
+    bensSentence1();
+    printf("\n\n");
+    // Add your sentence.
+    // Don't forget to update the header file.
+    bmwr84();
+    printf(" ");
+    darrensSentence1();
+    iphvg5_sentence2();
 
-  printf("\n\n");
-  bensSentence1();
-  printf("\n\n");
+    lmwv2c_first();
+    bmwr84_second();
+    dpvx8Second();
+    racn88_s2();
+    darrensSentence2();
+    tnrn9b1();
+    tnrn9b2();
+    cjbq4f_first();
+	djb8tc_1();
+    jpvc4_Sentence1();
+    bar5z6Sentence1();
+    ahpb75_sentence1();
+    jpvc4_Sentence2();
+    amd2b7_sentence1();
+    pld9bc_2();
+    amd2b7_sentence2();
+     pld9bc_1();
 
-  // Add your sentence.
-  // Don't forget to update the header file.
-  bmwr84();
-  printf(" ");
-  darrensSentence1();
-  iphvg5_sentence2();
-  lmwv2c_first();
-  bmwr84_second();
-  darrensSentence2();
-  tnrn9b1();
-  tnrn9b2();
-  jpvc4_Sentence1();
-  bar5z6Sentence1();
-  jpvc4_Sentence2();
-  amd2b7_sentence1();
-  pld9bc_2();
-  amd2b7_sentence2();
-  pld9bc_1();
 
-  
-  devinsSentence1();
-  jebd4f_Sentence1();
-  devinsSentence2();
+    devinsSentence1();
+    jebd4f_Sentence1();
+    devinsSentence2();
 
-  kllxvd();
-  kllxvd2();
+    kllxvd();
+    kllxvd2();
+    racn88_s2();
+    ahpb75_sentence2();
+    bar5z6Sentence2();
+    lmwv2c_second();
 
-  bar5z6Sentence2();
-  lmwv2c_second();
+     qltf8();
+	apcvzb_first();
+    qltf8_next();
+    cjbq4f_second();
 
-  qltf8();
-  qltf8_next();
+    jmlmdf();
+    jmlmdfnext();
+    dpvx8First();
+    jebd4f_Sentence2();
+    iphvg5_sentence1();
+    ska6f8Sentence();
+    ska6f8_Sentence2();
+    kpm8v5sent1();
+//    blhtkd_sentence1();
+//    blhtkd_sentence2();
+// TODO fix this
 
-//  jmlmdf();
-  //jmlmdfnext();  
-jebd4f_Sentence2();
-iphvg5_sentence1();
-  
-  //blhtkd_sentence1();
-  //blhtkd_sentence2();
-  wjbz82String(); 
-  // Bens sentence should be last.
- printf("\n\n"); //new lines for good measure
-  bensSentence_FINAL();
+    kjmd54SentenceOne();
+    kjmd54SentenceTwo();
 
-  printf("\n\n");
+    zzff8_sentence1();
+    zzff8_sentence2();
+    ldbnr4_sentence1();
+    ldbnr4_sentence2();
+    xltz6_1();
+    xltz6_2();
+   // aap455_Sentence1();
+   // aap455_Sentence2();
+   kpm8v5sent2();
+	baotm4_sentence1();
+	baotm4_sentence2();
+	apcvzb_second();
+	ps793_sentence1();
+	ps793_sentence2();
+	rwg58();
+	rwg58_next();
+	xcqrf();
+        xcqrf_next();
+	djb8tc_2();
+        wjbz82String(); 
+//	madelynsSentence1();
+//	madelynsSentence2();
+    // Bens sentence should be last.
+    bensSentence_FINAL();
 }
 
