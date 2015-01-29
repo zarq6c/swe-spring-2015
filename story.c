@@ -18,6 +18,7 @@ int main( void )
 
     lmwv2c_first();
     bmwr84_second();
+    dpvx8Second();
     racn88_s2();
     darrensSentence2();
     tnrn9b1();
@@ -52,6 +53,7 @@ int main( void )
 
     jmlmdf();
     jmlmdfnext();
+    dpvx8First();
     jebd4f_Sentence2();
     iphvg5_sentence1();
     ska6f8Sentence();

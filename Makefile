@@ -52,6 +52,7 @@ clean:
 # -----------------------------------------------
 
 story: story.o mcs526.o ska6f8.o bpbkt7.o apcvzb.o bmwr84.o dse2pd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o iphvg5.o lmwv2c.o racn88.o zzff8.o  jmlmdf.o xdb57.o ldbnr4.o xltz6.o kjmd54.o baotm4.o ahpb75.o cjbq4f.o rwg58.o xcqrf.o ps793.o djb8tc.o 
+story: story.o dpvx8.o ska6f8.o bpbkt7.o apcvzb.o bmwr84.o dse2pd.o jpvc4.o amd2b7.o dc4g2.o kllxvd.o qltf8.o tnrn9b.o bar5z6.o jebd4f.o pld9bc.o iphvg5.o lmwv2c.o racn88.o zzff8.o  jmlmdf.o xdb57.o ldbnr4.o xltz6.o kjmd54.o baotm4.o ahpb75.o cjbq4f.o rwg58.o xcqrf.o ps793.o djb8tc.o 
 
 	$(CC) -o story $^
 
@@ -64,6 +65,8 @@ story.o: story.c
 
 # -----------------------------------------------
 mcs526.o: sentences/mcs526.c
+	$(CC) -c $<
+dpvx8.o: sentences/dpvx8.c
 	$(CC) -c $<
 apcvzb.o: sentences/apcvzb.c
 	$(CC) -c $<
