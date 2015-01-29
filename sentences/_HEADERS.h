@@ -63,3 +63,5 @@ int ps793_sentence1();
 int ps793_sentence2();
 int rwg58();
 int rwg58_next();
+void djb8tc_1();
+void djb8tc_2();

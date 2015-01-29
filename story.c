@@ -23,6 +23,7 @@ int main( void )
     tnrn9b1();
     tnrn9b2();
     cjbq4f_first();
+	djb8tc_1();
     jpvc4_Sentence1();
     bar5z6Sentence1();
     ahpb75_sentence1();
@@ -81,6 +82,7 @@ int main( void )
 	rwg58_next();
 	xcqrf();
         xcqrf_next();
+	djb8tc_2();
     // Bens sentence should be last.
     bensSentence_FINAL();
 
