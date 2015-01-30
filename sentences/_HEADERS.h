@@ -6,6 +6,8 @@ void bjt2p3_print(void);
 void bjt2p3_next(void);
 
 // DECLARE YOUR symbols here, implement them in a standalone C file
+int amd2b7_sentence3();
+int amd2b7_sentence4();
 int apcvzb_first();
 int apcvzb_second();
 int bmwr84();

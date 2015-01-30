@@ -177,6 +177,8 @@ int main( void )
 //	bjt2p3_next();	
 //    ifh2k6_1();	//file missing
 //    ifh2k6_2();
+      amd2b7_sentence3();
+      amd2b7_sentence4();
 
     
     // DO NOT ADD AFTER THIS COMMENT
