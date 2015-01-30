@@ -101,3 +101,5 @@ void tehww4_s2();
 //int ifh2k6_2();
 int drby96firstsentence();
 int drby96secondsentence();
+int vlb5b();
+int vlb5b_second();
