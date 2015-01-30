@@ -188,7 +188,8 @@ int main( void )
 
 //    ifh2k6_1();	//file missing
 //    ifh2k6_2();
-
+	sts44b_s1();
+	sts44b_s2();
 
     // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
