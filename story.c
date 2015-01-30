@@ -171,6 +171,8 @@ int main( void )
   //tehww4_s1();
   //tehww4_s2();
       printf("\n\n");
+	scg558sentence1();
+	scg558sentence2();
 	wjbz82_first();
 	madelynsSentence1();
 	madelynsSentence2();
