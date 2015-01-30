@@ -5,21 +5,6 @@
 
 int main( void )
 {
-	printf("\n\n");
-	bensSentence1();
-	printf("\n\n");
-
-	// Add your sentence.
-	// Don't forget to update the header file.
-	bmwr84();
-	printf(" ");
-	darrensSentence1();
-	iphvg5_sentence2();
-	lmwv2c_first();
-	bmwr84_second();
-	darrensSentence2();
-
-//<<<<<<< HEAD
   printf("\n\n");
   bensSentence1();
   printf("\n\n");
@@ -73,9 +58,6 @@ int main( void )
   devinsSentence1();
   jebd4f_Sentence1();
   devinsSentence2();
-//=======
-//>>>>>>> dse2pd
-	
 	//rcsc77First();	//non-existant file
 
 	tnrn9b1();
@@ -124,7 +106,6 @@ int main( void )
 	cmm9r2_sentence1();
 	qltf8();
 	apcvzb_first();
-//<<<<<<< HEAD
     qltf8_next();
     cjbq4f_second();
 
@@ -133,15 +114,13 @@ int main( void )
     dpvx8First();
     jebd4f_Sentence2();
     iphvg5_sentence1();
-    //rcsc77Second();
+//    rcsc77Second();
     ska6f8Sentence();
     ska6f8_Sentence2();
     kpm8v5sent1();
 //    blhtkd_sentence1();
 //    blhtkd_sentence2();
 // TODO fix this
-
-//=======
 	qltf8_next();
 	cjbq4f_second();
 	jmlmdf();
@@ -149,15 +128,12 @@ int main( void )
 	dpvx8First();
 	jebd4f_Sentence2();
 	iphvg5_sentence1();
-
 	//rcsc77Second();	//non-existant file
-
 	ska6f8Sentence();
 	ska6f8_Sentence2();
 	kpm8v5sent1();
 	blhtkd_sentence1();
 	blhtkd_sentence2();
-//>>>>>>> dse2pd
     kjmd54SentenceOne();
     kjmd54SentenceTwo();
     zzff8_sentence1();
@@ -166,12 +142,11 @@ int main( void )
     ldbnr4_sentence1();
     ldbnr4_sentence2();
     xltz6_1();
-    xltz6_2();
-    
+    xltz6_2(); 
 	// aap455_Sentence1();	//non-existant file
 	// aap455_Sentence2();	//non-existant file
-
-	kpm8v5sent2();
+   drby96firstsentence();
+   kpm8v5sent2();
 	baotm4_sentence1();
 	baotm4_sentence2();
 	apcvzb_second();
@@ -179,28 +154,21 @@ int main( void )
 	ps793_sentence2();
 	rwg58();
 	rwg58_next();
+	drby96secondsentence();
 	masyv6SecondSentence();
 	xcqrf();
 	xcqrf_next();
 	djb8tc_2(); 
 	bgnqp4_s2();
-//<<<<<<< HEAD
         wjbz82_first();  	
 //	madelynsSentence1();
 //	madelynsSentence2();
-    // Bens sentence should be last.
-
-  
-  // Bens sentence should be last.
   wjbz82_second(); 
   edw8n8_SENTENCE2();
   //tehww4_s1();
   //tehww4_s2();
-  //bensSentence_FINAL();
       printf("\n\n");
-//=======
 	wjbz82_first();
-
 	madelynsSentence1();
 	madelynsSentence2();
 	edw8n8_SENTENCE2();
@@ -215,5 +183,4 @@ int main( void )
 	// Bens sentence should be last.
 	bensSentence_FINAL();
 	printf("\n\n");
-//>>>>>>> dse2pd
 }
