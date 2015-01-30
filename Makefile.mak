@@ -7,7 +7,7 @@
 
 # -----------------------------------------------
 # Super useful shortcuts:
-#   $@ matches the target; 
+#   $@ matches the target;
 #   $< matches the first dependent
 #   $^ Matches all dependencies
 # -----------------------------------------------
@@ -20,7 +20,7 @@
 CC= gcc
 # -----------------------------------------------
 # CLEAN definition - git rid of compiled stuff
-CLEAN= rm -rf *.o story 
+CLEAN= rm -rf *.o story
 # -----------------------------------------------
 # TEST definition - write to file and cat file
 TEST= (./story > the_story.txt) ; cat the_story.txt
@@ -56,11 +56,11 @@ story: story.o bpbkt7.o bmwr84.o tnrn9b.o
 
 # -----------------------------------------------
 
-story.o: story.c 
+story.o: story.c
 	$(CC) -c $^
 
 # -----------------------------------------------
 bpbkt7.o: sentences/bpbkt7.c
-	$(CC) -c $< 
+	$(CC) -c $<
 
 tnrn9b.o: sentences/tnrn9b.c
