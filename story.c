@@ -5,16 +5,6 @@
 
 int main( void )
 {
-    printf("\n\n");
-    bensSentence1();
-    printf("\n\n");
-    // Add your sentence.
-    // Don't forget to update the header file.
-    bmwr84();
-    printf(" ");
-    darrensSentence1();
-    iphvg5_sentence2();
-
   printf("\n\n");
   bensSentence1();
   printf("\n\n");
@@ -28,7 +18,7 @@ int main( void )
   lmwv2c_first();
   bmwr84_second();
   darrensSentence2();
-  rcsc77First();
+  //rcsc77First();
   tnrn9b1();
   tnrn9b2();
   jpvc4_Sentence1();
@@ -98,7 +88,7 @@ iphvg5_sentence1();
     dpvx8First();
     jebd4f_Sentence2();
     iphvg5_sentence1();
-    rcsc77Second();
+//    rcsc77Second();
     ska6f8Sentence();
     ska6f8_Sentence2();
     kpm8v5sent1();
@@ -118,6 +108,7 @@ iphvg5_sentence1();
     xltz6_2();
    // aap455_Sentence1();
    // aap455_Sentence2();
+   drby96firstsentence();
    kpm8v5sent2();
 	baotm4_sentence1();
 	baotm4_sentence2();
@@ -126,6 +117,7 @@ iphvg5_sentence1();
 	ps793_sentence2();
 	rwg58();
 	rwg58_next();
+	drby96secondsentence();
 	masyv6SecondSentence();
 	xcqrf();
         xcqrf_next();
