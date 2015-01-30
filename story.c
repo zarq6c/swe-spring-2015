@@ -7,6 +7,7 @@ int main( void )
 {
   printf("\n\n");
   bensSentence1();
+
   printf("\n\n");
 
   // Add your sentence.
