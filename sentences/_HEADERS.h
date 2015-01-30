@@ -113,3 +113,5 @@ void cflzr3_1();
 void cflzr3_2();
 void scg558sentence1();
 void scg558sentence2();
+int zarq6c_1();
+int zarq6c_2();
