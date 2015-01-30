@@ -58,7 +58,7 @@ int main( void )
   devinsSentence1();
   jebd4f_Sentence1();
   devinsSentence2();
-	//rcsc77First();	//non-existant file
+	//rcsc77First();	//file missing
 
 	tnrn9b1();
 	tnrn9b2();
@@ -128,7 +128,7 @@ int main( void )
 	dpvx8First();
 	jebd4f_Sentence2();
 	iphvg5_sentence1();
-	//rcsc77Second();	//non-existant file
+	//rcsc77Second();	//file missing
 	ska6f8Sentence();
 	ska6f8_Sentence2();
 	kpm8v5sent1();
@@ -175,8 +175,8 @@ int main( void )
 	wjbz82_second(); 
 //	bjt2p3_print();
 //	bjt2p3_next();	
-    ifh2k6_1();
-    ifh2k6_2();
+//    ifh2k6_1();	//file missing
+//    ifh2k6_2();
 
     
     // DO NOT ADD AFTER THIS COMMENT

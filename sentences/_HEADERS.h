@@ -87,8 +87,7 @@ void bgnqp4_s1();
 void bgnqp4_s2();
 int skhhdc_sent1();
 int skhhdc_sent2();
-//non-existant file
-//int rcsc77First();
+//int rcsc77First();	//missing file
 //int rcsc77Second();
 int cmm9r2_sentence1();
 int cmm9r2_sentence2();
@@ -98,7 +97,7 @@ int rcsc77First();
 int rcsc77Second();
 void tehww4_s1();
 void tehww4_s2();
-int ifh2k6_1();
-int ifh2k6_2();
+//int ifh2k6_1();	//missing file
+//int ifh2k6_2();
 int drby96firstsentence();
 int drby96secondsentence();
