@@ -105,3 +105,5 @@ int vlb5b();
 int vlb5b_second();
 int mjir4d_sentence1();
 int mjir4d_sentence2();
+void cflzr3_1();
+void cflzr3_2();

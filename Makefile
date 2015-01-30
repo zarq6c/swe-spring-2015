@@ -159,3 +159,5 @@ vlb5b.o: sentences/vlb5b.c
 	$(CC) -c $<
 mjir4d.o: sentences/mjir4d.c
 	$(CC) -c $<
+cflzr3.o: sentences/cflzr3.c
+	$(CC) -c $<
