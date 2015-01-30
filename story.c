@@ -26,7 +26,7 @@ int main( void )
   bar5z6Sentence1();
   jpvc4_Sentence2();
   amd2b7_sentence1();
-  mjir4d_sentence1(); 
+  mjir4d_sentence1();
   pld9bc_2();
   amd2b7_sentence2();
   pld9bc_1();
@@ -94,7 +94,7 @@ int main( void )
 	jebd4f_Sentence1();
 	devinsSentence2();
 	kllxvd();
-	mjir4d_sentence2(); 
+	mjir4d_sentence2();
 	kllxvd2();
 	racn88_s2();
 	bar5z6Sentence2();
@@ -145,7 +145,7 @@ int main( void )
     ldbnr4_sentence1();
     ldbnr4_sentence2();
     xltz6_1();
-    xltz6_2(); 
+    xltz6_2();
 	aap455_Sentence1();
 	aap455_Sentence2();
    drby96firstsentence();
@@ -161,12 +161,12 @@ int main( void )
 	masyv6SecondSentence();
 	xcqrf();
 	xcqrf_next();
-	djb8tc_2(); 
+	djb8tc_2();
 	bgnqp4_s2();
-        wjbz82_first();  	
+        wjbz82_first();
 //	madelynsSentence1();
 //	madelynsSentence2();
-  wjbz82_second(); 
+  wjbz82_second();
   edw8n8_SENTENCE2();
   //tehww4_s1();
   //tehww4_s2();
@@ -176,22 +176,25 @@ int main( void )
 	madelynsSentence2();
 	edw8n8_SENTENCE2();
 	wjbz82_second();
-	vlb5b_second(); 
+	vlb5b_second();
 
 	cflzr3_1();
 	cflzr3_2();
 //	bjt2p3_print();
-//	bjt2p3_next();	
+//	bjt2p3_next();
 
 	bjt2p3_print();
-	bjt2p3_next();	
+	bjt2p3_next();
 
 //    ifh2k6_1();	//file missing
 //    ifh2k6_2();
 
-    
+
     // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
 	printf("\n\n");
 }
+
+
+

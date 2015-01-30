@@ -136,7 +136,7 @@ ahpb75.o: sentences/ahpb75.c
 	$(CC) -c $<
 cjbq4f.o: sentences/cjbq4f.c
 	$(CC) -c $<
-ps793.o: sentences/ps793.c
+ps793.o: sentences/ps793.c                                                 
 	$(CC) -c $<
 rwg58.o: sentences/rwg58.c
 	$(CC) -c $<
