@@ -26,7 +26,7 @@ int main( void )
   bar5z6Sentence1();
   jpvc4_Sentence2();
   amd2b7_sentence1();
-  mjir4d_sentence1();
+  //mjir4d_sentence1(); //try git add
   pld9bc_2();
   amd2b7_sentence2();
   pld9bc_1();
@@ -94,7 +94,7 @@ int main( void )
 	jebd4f_Sentence1();
 	devinsSentence2();
 	kllxvd();
-	mjir4d_sentence2();
+	//mjir4d_sentence2(); //try git add
 	kllxvd2();
 	racn88_s2();
 	bar5z6Sentence2();
@@ -146,8 +146,8 @@ int main( void )
     ldbnr4_sentence2();
     xltz6_1();
     xltz6_2(); 
-	// aap455_Sentence1();	//non-existant file
-	// aap455_Sentence2();	//non-existant file
+	aap455_Sentence1();
+	aap455_Sentence2();
    drby96firstsentence();
    kpm8v5sent2();
 	baotm4_sentence1();
