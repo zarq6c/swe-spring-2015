@@ -103,3 +103,5 @@ int drby96firstsentence();
 int drby96secondsentence();
 int vlb5b();
 int vlb5b_second();
+int mjir4d_sentence1();
+int mjir4d_sentence2();
