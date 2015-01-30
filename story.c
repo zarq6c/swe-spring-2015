@@ -177,10 +177,15 @@ int main( void )
 	edw8n8_SENTENCE2();
 	wjbz82_second();
 	vlb5b_second(); 
+
 	cflzr3_1();
 	cflzr3_2();
 //	bjt2p3_print();
 //	bjt2p3_next();	
+
+	bjt2p3_print();
+	bjt2p3_next();	
+
 //    ifh2k6_1();	//file missing
 //    ifh2k6_2();
 

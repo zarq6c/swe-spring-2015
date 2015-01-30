@@ -11,4 +11,3 @@ void cflzr3_2(){
 	printf("The wizard  decides to go back to sleep and will fight evil another day.");
 
 }
-
