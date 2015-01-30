@@ -16,6 +16,7 @@ int main( void )
   darrensSentence1();
   iphvg5_sentence2();
   lmwv2c_first();
+  vlb5b();
   bmwr84_second();
   darrensSentence2();
   //rcsc77First();
@@ -25,6 +26,7 @@ int main( void )
   bar5z6Sentence1();
   jpvc4_Sentence2();
   amd2b7_sentence1();
+  mjir4d_sentence1(); 
   pld9bc_2();
   amd2b7_sentence2();
   pld9bc_1();
@@ -92,6 +94,7 @@ int main( void )
 	jebd4f_Sentence1();
 	devinsSentence2();
 	kllxvd();
+	mjir4d_sentence2(); 
 	kllxvd2();
 	racn88_s2();
 	bar5z6Sentence2();
@@ -143,8 +146,8 @@ int main( void )
     ldbnr4_sentence2();
     xltz6_1();
     xltz6_2(); 
-	// aap455_Sentence1();	//non-existant file
-	// aap455_Sentence2();	//non-existant file
+	aap455_Sentence1();
+	aap455_Sentence2();
    drby96firstsentence();
    kpm8v5sent2();
 	baotm4_sentence1();
@@ -172,7 +175,10 @@ int main( void )
 	madelynsSentence1();
 	madelynsSentence2();
 	edw8n8_SENTENCE2();
-	wjbz82_second(); 
+	wjbz82_second();
+	vlb5b_second(); 
+	cflzr3_1();
+	cflzr3_2();
 //	bjt2p3_print();
 //	bjt2p3_next();	
 //    ifh2k6_1();	//file missing
